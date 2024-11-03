@@ -1,4 +1,4 @@
-FROM denoland/deno:2.0.3
+FROM denoland/deno:alpine
 
 # Create app directory
 WORKDIR /usr/src/app
