@@ -13,6 +13,7 @@
   },
   "nodeModulesDir": "auto",
   "compilerOptions": {
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   }
 }
